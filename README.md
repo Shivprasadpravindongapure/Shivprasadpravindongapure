@@ -2,19 +2,53 @@
 
 ![Welcome](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)  
 
-🚀 **Computer Engineering Student | Full-Stack Web & Android Developer | AI Enthusiast**  
-🔹 Passionate about **building impactful tech solutions** in **Android, Web Development, and AI**  
-🔹 Strong focus on **Women Safety Apps, AI-driven solutions, and Real-time Communication**  
-🔹 Developed a **Student Placement System Website** for college  
-🔹 Currently working on **QuickHelpline & Hospital Locator & Indoor Navigation App**  
+# 👋 Hi, I'm Shivprasad Pravindongapure
+
+Welcome to my GitHub profile! I'm passionate about building impactful solutions and exploring innovative technologies. Here you'll find my journey through code, creativity, and collaboration.
 
 ---
 
-## 🚀 About Me  
-🎓 **Direct Second-Year Computer Engineering Student**  
-💡 **Tech Enthusiast**, always exploring new technologies & frameworks  
-🛠️ Experienced in **emergency helpline apps, video calling apps, and AI-powered projects**  
-📌 Currently **learning & implementing AI, cloud computing, and security features in mobile applications**  
+## 🚀 About Me
+
+- 💼 **Profession:** Developer & Tech Enthusiast
+- 🌱 **Interests:** Full Stack Development, AI/ML, Django, Legal Tech, Communication Apps
+- 📚 **Always Learning:** Modern web frameworks, AI integrations, and scalable architectures
+
+---
+
+## 🏆 Featured Projects
+
+- [**QuickHelpline**](https://github.com/Shivprasadpravindongapure/quickhelpline): A platform designed to connect users with instant help and support.
+- [**Nyay-AI-for-legal-assistant**](https://github.com/Shivprasadpravindongapure/Nyay-AI-for-legal-assistant): Bringing AI to the legal domain, making legal assistance smarter and more accessible.
+- [**NewsFeed-Django**](https://github.com/Shivprasadpravindongapure/NewsFeed-Django): A Django-based news aggregator with real-time updates.
+- [**Audio-videoCall-APP-zegocloudsetup-**](https://github.com/Shivprasadpravindongapure/Audio-videoCall-APP-zegocloudsetup-): Real-time audio/video communication app leveraging ZegoCloud.
+- [**my-notes**](https://github.com/Shivprasadpravindongapure/my-notes): Personal notes and productivity toolkit, open for inspiration.
+
+---
+
+## 💡 Skills & Tools
+
+- **Languages:** Python, JavaScript
+- **Frameworks:** Django, React
+- **Technologies:** AI/ML, REST APIs, WebRTC, Real-time Communication
+- **Other:** Git, Open Source Collaboration
+
+---
+
+## 🌐 Let's Connect
+
+- [GitHub](https://github.com/Shivprasadpravindongapure)
+- _Add your LinkedIn, Twitter, or personal website here for more ways to connect!_
+
+---
+
+## ✨ Fun Fact
+
+I enjoy solving real-world problems with technology and collaborating with like-minded innovators. Let's build something amazing together!
+
+---
+
+_Thanks for visiting my profile! ⭐_ 
 
 ---
 
@@ -47,17 +81,6 @@
 - **Cloud Services (Firebase, Google Cloud)**  
 
 ---
-
-## 🌟 Featured Projects  
-### 🔹 **QuickHelpline – Women Safety Android App**  
-📌 Emergency contacts, silent alert mode, AI chatbot (using Gemini API)  
-📌 Panic mode (power button triggers SOS message & location sharing)  
-📌 **Tech Stack:** Java, Firebase, AI  
-
-### 🔹 **Video Calling App (Nitesh)**  
-📌 Contact-based calling using **ZEGOCLOUD & Agora SDK**  
-📌 Real-time communication, call stability & smooth UI  
-📌 **Tech Stack:** Java, Firebase, Agora SDK  
 
 ### 🔹 **Student Placement System Website**  
 📌 Platform for students & companies to manage placements  
