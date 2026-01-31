@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./profile_header.png" alt="Shivprasad Dongapure" style="width: 200px; height: 200px; border-radius: 50%; border: 4px solid #3B82F6; margin-bottom: 20px; box-shadow: 0 4px 20px rgba(59, 130, 246, 0.3);">
+  <img src="./Dev.jpg" alt="Shivprasad Dongapure" style="width: 200px; height: 200px; border-radius: 50%; border: 4px solid #3B82F6; margin-bottom: 20px; box-shadow: 0 4px 20px rgba(59, 130, 246, 0.3);">
 </div>
 
 <h1 align="center">
