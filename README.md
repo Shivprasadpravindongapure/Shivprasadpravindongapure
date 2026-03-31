@@ -1,9 +1,7 @@
-<div align="center">
-  <img src="./Dev.jpg" alt="Shivprasad Dongapure" style="width: 200px; height: 200px; border-radius: 50%; border: 4px solid #3B82F6; margin-bottom: 20px; box-shadow: 0 4px 20px rgba(59, 130, 246, 0.3);">
-</div>
+
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+👋,+I'm+Shivprasad+Pravin+Dongapure;Full+Stack+Developer+%7C+MERN+%7C+AI/ML" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+👋,+I'm+Shivprasad" alt="Typing SVG" />
 </h1>
 
 <h3 align="center" style="color: #64748b;">
